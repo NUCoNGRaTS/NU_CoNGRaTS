@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Northwestern Univeristy</title>
+    <description>Computational Neuroscience and Genetics Research and Technology in Science (CoNGRaTS) Group
+</description>
+    <link>http://CoNGRaTS.github.io/</link>
+    <atom:link href="http://CoNGRaTS.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 May 2016 01:32:33 -0400</pubDate>
+    <lastBuildDate>Tue, 24 May 2016 01:32:33 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+  </channel>
+</rss>
